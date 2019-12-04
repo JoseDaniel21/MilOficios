@@ -1,0 +1,848 @@
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\MilOficios.dll.config
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\MilOficios.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\MilOficios.pdb
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Owin.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\WebGrease.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\System.Web.Razor.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\obj\Debug\MilOficios.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CopyComplete
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\obj\Debug\MilOficios.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\obj\Debug\MilOficios.pdb
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Facebook.dll
+C:\Users\ACER\Desktop\Project_MilOfic\MilOficios\MilOficios\bin\Facebook.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\MilOficios.dll.config
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\MilOficios.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\MilOficios.pdb
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\csc.exe
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\csc.exe.config
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\csc.rsp
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\csi.exe
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\csi.exe.config
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\csi.rsp
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.AppContext.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Console.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.IO.Compression.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Security.Claims.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.ValueTuple.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\vbc.exe
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\vbc.exe.config
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\vbc.rsp
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Antlr3.Runtime.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\EntityFramework.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\EntityFramework.SqlServer.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Facebook.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Newtonsoft.Json.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Owin.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Helpers.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Mvc.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Optimization.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Razor.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.WebPages.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\WebGrease.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Facebook.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Helpers.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Mvc.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Optimization.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.Razor.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.WebPages.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Newtonsoft.Json.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Antlr3.Runtime.pdb
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\EntityFramework.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\EntityFramework.SqlServer.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\Microsoft.Owin.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\System.Web.Razor.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\EntityFramework.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\obj\Debug\MilOficios.csprojAssemblyReference.cache
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CoreCompileInputs.cache
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CopyComplete
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\obj\Debug\MilOficios.dll
+C:\Users\JoseDaniel\Source\Repos\MilOficios\MilOficios\MilOficios\obj\Debug\MilOficios.pdb
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\MilOficios.dll.config
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\MilOficios.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\MilOficios.pdb
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Facebook.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Owin.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\WebGrease.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Facebook.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\System.Web.Razor.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\obj\Debug\MilOficios.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CopyComplete
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\obj\Debug\MilOficios.dll
+C:\Users\ACER\Desktop\Daniel\REPOSITORIO_MILOFICIOS\MilOficios\MilOficios\obj\Debug\MilOficios.pdb
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\MilOficios.dll.config
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\MilOficios.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\MilOficios.pdb
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Antlr3.Runtime.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Facebook.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Owin.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Optimization.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.WebPages.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\WebGrease.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Facebook.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Optimization.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.WebPages.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Antlr3.Runtime.pdb
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\System.Web.Razor.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\obj\Debug\MilOficios.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CopyComplete
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\obj\Debug\MilOficios.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\obj\Debug\MilOficios.pdb
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\MilOficios.Entidades.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios\bin\MilOficios.Entidades.pdb
+F:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.dll.config
+F:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.pdb
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csc.exe
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csc.exe.config
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csc.rsp
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csi.exe
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csi.exe.config
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csi.rsp
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.AppContext.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Collections.Immutable.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Console.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.Compression.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Reflection.Metadata.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.AccessControl.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Claims.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Principal.Windows.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.ValueTuple.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\vbc.exe
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\vbc.exe.config
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\vbc.rsp
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe
+F:\DCG TEC\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe.config
+F:\DCG TEC\MilOficios\MilOficios\bin\Antlr3.Runtime.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.SqlServer.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Facebook.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Web.Infrastructure.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.Entidades.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Newtonsoft.Json.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\Owin.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Helpers.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Mvc.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Optimization.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Razor.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\WebGrease.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.Entidades.pdb
+F:\DCG TEC\MilOficios\MilOficios\bin\Facebook.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Helpers.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Mvc.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Optimization.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Razor.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Newtonsoft.Json.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Antlr3.Runtime.pdb
+F:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.SqlServer.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.Owin.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Helpers.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Mvc.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Optimization.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Razor.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.WebPages.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\EntityFramework.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\EntityFramework.SqlServer.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.csprojAssemblyReference.cache
+F:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CoreCompileInputs.cache
+F:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CopyComplete
+F:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.dll
+F:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.pdb
+D:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.dll.config
+D:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.pdb
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csc.exe
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csc.exe.config
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csc.rsp
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csi.exe
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csi.exe.config
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\csi.rsp
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.AppContext.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Collections.Immutable.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Console.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.Compression.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Reflection.Metadata.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.AccessControl.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Claims.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.ValueTuple.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\vbc.exe
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\vbc.exe.config
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\vbc.rsp
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe
+D:\DCG TEC\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe.config
+D:\DCG TEC\MilOficios\MilOficios\bin\Antlr3.Runtime.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.SqlServer.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Facebook.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Web.Infrastructure.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.Entidades.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Newtonsoft.Json.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\Owin.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Helpers.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Mvc.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Optimization.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Razor.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\WebGrease.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\MilOficios.Entidades.pdb
+D:\DCG TEC\MilOficios\MilOficios\bin\Facebook.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Helpers.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Mvc.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Optimization.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.Razor.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Newtonsoft.Json.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Antlr3.Runtime.pdb
+D:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\EntityFramework.SqlServer.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.Owin.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Helpers.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Mvc.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Optimization.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.Razor.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.WebPages.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\EntityFramework.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\EntityFramework.SqlServer.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.csprojAssemblyReference.cache
+D:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CoreCompileInputs.cache
+D:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CopyComplete
+D:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.dll
+D:\DCG TEC\MilOficios\MilOficios\obj\Debug\MilOficios.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\MilOficios.dll.config
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\MilOficios.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\MilOficios.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\csc.exe
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\csc.exe.config
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\csc.rsp
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\csi.exe
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\csi.exe.config
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\csi.rsp
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.AppContext.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Console.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.IO.Compression.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Security.Claims.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.ValueTuple.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\vbc.exe
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\vbc.exe.config
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\vbc.rsp
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Antlr3.Runtime.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\EntityFramework.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\EntityFramework.SqlServer.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Facebook.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\MilOficios.Entidades.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Newtonsoft.Json.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Owin.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Helpers.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Mvc.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Optimization.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Razor.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.WebPages.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\WebGrease.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\MilOficios.Entidades.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Facebook.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Helpers.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Mvc.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Optimization.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.Razor.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.WebPages.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\System.Web.WebPages.Razor.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Newtonsoft.Json.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Antlr3.Runtime.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\EntityFramework.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\EntityFramework.SqlServer.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\Microsoft.Owin.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\System.Web.Razor.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\System.Web.WebPages.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\EntityFramework.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\obj\Debug\MilOficios.csprojAssemblyReference.cache
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CoreCompileInputs.cache
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\obj\Debug\MilOficios.csproj.CopyComplete
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\obj\Debug\MilOficios.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios\obj\Debug\MilOficios.pdb

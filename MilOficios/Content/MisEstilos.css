@@ -1,0 +1,305 @@
+﻿/* loader */
+#contenedor_carga {
+    background-color: rgba(181, 185, 181, 0.36);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 1000;
+    visibility: hidden;
+}
+
+#carga {
+    border: 15px solid #ccc;
+    border-top-color: #3da1e0;
+    border-top-style: groove;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    -webkit-animation: girar 1.5s linear infinite;
+    -o-animation: girar 1.5s linear infinite;
+    animation: girar 1.5s linear infinite;
+}
+
+@keyframes girar {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* loader */
+#contenedor_cargaModal {
+    background-color: rgba(181, 185, 181, 0.36);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 1000;
+    visibility: hidden;
+}
+
+#cargaModal {
+    border: 15px solid #ccc;
+    border-top-color: #3da1e0;
+    border-top-style: groove;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    -webkit-animation: girarModal 1.5s linear infinite;
+    -o-animation: girarModal 1.5s linear infinite;
+    animation: girarModal 1.5s linear infinite;
+}
+
+@keyframes girarModal {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* spinner */
+
+.lds-ring {
+    display: inline-block;
+    position: relative;
+    width: 20px;
+    height: 14px;
+}
+
+    .lds-ring div {
+        box-sizing: border-box;
+        display: block;
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        margin: 0px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+        border-color: #8862e0 transparent transparent transparent;
+    }
+
+        .lds-ring div:nth-child(1) {
+            animation-delay: -0.45s;
+        }
+
+        .lds-ring div:nth-child(2) {
+            animation-delay: -0.3s;
+        }
+
+        .lds-ring div:nth-child(3) {
+            animation-delay: -0.15s;
+        }
+
+@keyframes lds-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Layout */
+
+.font12 {
+    font-size: 12px;
+}
+
+.font13 {
+    font-size: 13px;
+}
+
+.rowYellow {
+    background: yellow;
+}
+
+.mensajeBox {
+    height: 405px;
+    overflow-y: scroll;
+    padding: 15px;
+    /*-webkit-box-shadow: 4px 6px 15px -4px rgba(148,140,148,0.99);*/
+    -moz-box-shadow: 4px 6px 15px -4px rgba(148,140,148,0.99);
+    box-shadow: 4px 6px 15px -4px rgba(148,140,148,0.99);
+}
+
+.mensaje {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding: 10px;
+    background: #f1f1f1;
+    border-color: #f1f1f1;
+}
+
+.mensajePropio {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    padding: 10px;
+    background: #2284ff;
+    border-color: #2284ff;
+    color: white;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.estadosTicket:hover {
+    -webkit-transform: translateY(-5px) scale(1.02);
+    transform: translateY(-5px) scale(1.02);
+    -webkit-box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.2);
+    box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.2);
+    cursor: pointer;
+    color: blue;
+}
+
+.estadosCliente:hover {
+    -webkit-transform: translateY(-5px) scale(1.02);
+    transform: translateY(-5px) scale(1.02);
+    -webkit-box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.2);
+    box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.2);
+    cursor: pointer;
+    color: blue;
+}
+
+.estadosTrabajador:hover {
+    -webkit-transform: translateY(-5px) scale(1.02);
+    transform: translateY(-5px) scale(1.02);
+    -webkit-box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.2);
+    box-shadow: 0px 5px 12px rgba(126, 142, 177, 0.2);
+    cursor: pointer;
+    color: blue;
+}
+
+.hidden {
+    display: none;
+}
+
+.imgMensaje {
+    height: 187px;
+    width: 143px;
+    border-radius: 10px;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bottonStyleMenu {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #0000001f;
+}
+
+.empresasList li:hover {
+    background-color: #1e7bcb;
+    color: white;
+}
+
+.empresasList {
+    cursor: pointer;
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d4d9da;
+}
+
+.empresasList02 li:hover {
+    background-color: #1e7bcb;
+    color: white;
+}
+
+.empresasList02 {
+    cursor: pointer;
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d4d9da;
+    position: absolute;
+    z-index: 991;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 7px;
+    margin-right: 12px;
+}
+
+.autocomplete li:hover {
+    background-color: #1e7bcb;
+    color: white;
+}
+
+.autocomplete {
+    cursor: pointer;
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d4d9da;
+    position: absolute;
+    z-index: 991;
+    height: 300px;
+    overflow-y: scroll;
+    padding: 7px;
+    margin-right: 5px;
+}
+
+.mouse {
+    cursor: pointer;
+}
+
+.listados {
+    cursor: pointer;
+    background: white;
+    height: 150px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+    .listados li:hover {
+        background-color: #1e7bcb;
+        color: white;
+    }
+
+.img-video {
+    background: white;
+    -webkit-box-shadow: 0px 2px 11px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 11px 2px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 11px 2px rgba(0,0,0,0.75);
+}
+
+.zoom:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+#thReasignar:hover {
+    background: #3681c2;
+}

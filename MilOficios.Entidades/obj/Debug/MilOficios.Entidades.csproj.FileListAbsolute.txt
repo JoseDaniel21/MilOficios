@@ -1,0 +1,36 @@
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.pdb
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.pdb
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\Daniel\milofiiiiii\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CopyComplete
+F:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.dll
+F:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.pdb
+F:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.dll
+F:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.xml
+F:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csprojAssemblyReference.cache
+F:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CoreCompileInputs.cache
+F:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CopyComplete
+F:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.dll
+F:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.pdb
+D:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.dll
+D:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.pdb
+D:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.dll
+D:\DCG TEC\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.xml
+D:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csprojAssemblyReference.cache
+D:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CoreCompileInputs.cache
+D:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CopyComplete
+D:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.dll
+D:\DCG TEC\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\bin\Debug\MilOficios.Entidades.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csprojAssemblyReference.cache
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.csproj.CopyComplete
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Entidades\obj\Debug\MilOficios.Entidades.pdb

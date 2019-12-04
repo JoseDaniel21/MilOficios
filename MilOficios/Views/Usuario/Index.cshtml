@@ -1,0 +1,154 @@
+﻿@using MilOficios.Entidades
+@{
+    var user = Session["Usuario"] as Usuario;
+
+    if (user == null)
+    {
+        Response.Redirect("/Usuario/Login");
+    }
+    ViewBag.Title = "Listado de Usuarios";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-xlg-3 col-md-5">
+            <div class="card">
+                <div class="card-body">
+                    <center class="m-t-30">
+                        <img src="@(user.urlFoto??"~/images/usuarioM.png")" class="rounded-circle" width="100">
+                        <h4 class="card-title m-t-10">@user.nombres</h4>
+                        <h6 class="card-subtitle">@user.nomRol</h6>
+                    </center>
+                </div>
+                <hr>
+                <div class="card-body">
+                    <small class="text-muted p-t-30 db">Nombres</small>
+                    <h6>@user.nombres</h6>
+                    <small class="text-muted p-t-30 db">Celular</small>
+                    <h6>@user.telefono</h6>
+                    <small class="text-muted p-t-30 db">Correo</small>
+                    <h6>@user.correo</h6>
+                    <small class="text-muted p-t-30 db">Rol</small>
+                    <h6>@user.nomRol</h6><br />
+
+                    <h6>Mil Oficios. S.A.C</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8 col-xlg-9 col-md-7">
+            <div class="card">
+                <div class="card-body">
+                    <form class="form-horizontal form-material" id="formProfiler">
+                        <input type="hidden" id="usuarioID" name="id" value="37">
+                        <input type="hidden" id="perfilID" name="perfilID" value="1">
+                        <input type="hidden" id="estadoID" name="estadoID" value="1">
+                        <input type="hidden" id="perfilNombre" value="Administrador">
+                        <div class="form-group">
+                            <label class="col-md-12">Foto</label>
+                            <div class="col-md-12">
+                                <input type="hidden" value="usuarioM.png" name="foto">
+                                <input type="file" class="form-control form-control-line" name="fileFoto" id="fileFoto" accept="image/png, image/jpeg">
+                            </div>
+                        </div>
+                        <div class="form-group" id="col-ruc" style="display: none;">
+                            <label class="col-md-12">Ruc</label>
+                            <div class="col-md-12">
+                                <input type="text" class="form-control form-control-line" name="ruc" id="ruc" value="" autocomplete="off" readonly="">
+                            </div>
+                        </div>
+                        <div class="form-row" id="col-nombres-apellidos">
+                            <div class="form-group col-md-12">
+                                <label class="col-md-12">Nombres</label>
+                                <div class="col-md-12">
+                                    <input type="text" class="form-control form-control-line" name="nombres" id="nombres" value="@user.nombres" autocomplete="off" required="">
+                                </div>
+                            </div>
+                            @*<div class="form-group col-md-6">
+                                <label class="col-md-12">Apellidos</label>
+                                <div class="col-md-12">
+                                    <input type="text" class="form-control form-control-line" name="apellidos" id="apellidos" value="Huaroma Blanco" autocomplete="off" required="">
+                                </div>
+                            </div>*@
+                        </div>
+                        <div class="form-row" id="col-sexo-perfil">
+                            <div class="form-group col-md-6">
+                                <input type="hidden" id="hdnSexo" value="M">
+                                <label class="col-md-12">Provincia</label>
+                                <div class="col-md-12">
+                                    <select class="form-control" id="provincia" name="sexo" required="" style="height:35px">
+                                        <option value="" selected="" disabled="">--Seleccione--</option>
+                                        <option value="M">Masculino</option>
+                                        <option value="F">Femenino</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group col-md-6" id="col-sexo-perfil">
+                                <label class="col-md-12">Rol</label>
+                                <div class="col-md-12">
+                                    <select class="form-control" id="perfiles" name="perfilID" required="">
+                                        <option value="@user.idRol" selected="" disabled="">--Seleccione--</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-md-12">Celular</label>
+                            <div class="col-md-12">
+                                <input type="text" class="form-control form-control-line" name="celular" id="celular" value="@user.telefono" autocomplete="off" required="">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-md-12">Correo</label>
+                            <div class="col-md-12">
+                                <input type="email" class="form-control form-control-line" name="correo" id="correo" value="@user.correo" autocomplete="off" required="">
+                                <div id="msgCorreo" style="font-size: 11px;text-align: center;color:red; display:none">
+                                    Este correo ya se encuentra registrado.
+                                </div>
+                            </div>
+                        </div>
+                        @*<div class="form-group">
+                            <label class="col-md-12">Cargo</label>
+                            <div class="col-md-12">
+                                <input type="hidden" id="hdnCargo" value="Proyectos">
+                                <select class="form-control" id="cargos" name="cargo" required="">
+                                    <option value="" selected="" disabled="">--Seleccione--</option>
+                                </select>
+                            </div>
+                        </div>*@
+                        <div class="form-row" id="col-grupos-lineas">
+                            <div class="form-group col-md-12" id="col-grupos">
+                                <label class="col-md-12">Grupos asignados</label>
+                                <div class="col-md-12">
+                                    <div class="row" id="grupos">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-12">
+                                <label class="col-md-12">Nueva Contraseña</label>
+                                <div class="col-md-12">
+                                    <input type="password" class="form-control form-control-line" name="claveDesencriptada" id="clave">
+                                </div>
+                            </div>
+                            @*<div class="form-group col-md-6">
+                                <label class="col-md-12">Confirmar clave</label>
+                                <div class="col-md-12">
+                                    <input type="password" class="form-control form-control-line" id="repitClave">
+                                    <div id="msgRepeatClave" style="font-size: 11px;text-align: center;color:red; display:none">
+                                        Las claves no coinciden.
+                                    </div>
+                                </div>
+                            </div>*@
+                        </div>
+                        <div class="form-group">
+                            <div class="col-sm-12" align="center">
+                                <button class="btn btn-success" id="btnGuardar">Guardar cambios</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

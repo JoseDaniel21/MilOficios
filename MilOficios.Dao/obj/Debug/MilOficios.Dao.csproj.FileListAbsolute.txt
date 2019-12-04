@@ -1,0 +1,6 @@
+F:\DCG TEC\MilOficios\MilOficios.Dao\bin\Debug\MilOficios.Dao.dll
+F:\DCG TEC\MilOficios\MilOficios.Dao\bin\Debug\MilOficios.Dao.pdb
+F:\DCG TEC\MilOficios\MilOficios.Dao\obj\Debug\MilOficios.Dao.csprojAssemblyReference.cache
+F:\DCG TEC\MilOficios\MilOficios.Dao\obj\Debug\MilOficios.Dao.csproj.CoreCompileInputs.cache
+F:\DCG TEC\MilOficios\MilOficios.Dao\obj\Debug\MilOficios.Dao.dll
+F:\DCG TEC\MilOficios\MilOficios.Dao\obj\Debug\MilOficios.Dao.pdb

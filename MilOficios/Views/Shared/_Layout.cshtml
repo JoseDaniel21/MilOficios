@@ -1,0 +1,250 @@
+﻿@using MilOficios.Entidades
+@{
+    Random rnd = new Random();
+        ViewBag.Title = "Index";
+        var user = Session["Usuario"] as Usuario;
+}
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Expires" content="0">
+        <meta http-equiv="Last-Modified" content="0">
+        <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+        <meta http-equiv="Pragma" content="no-cache">
+        <title>@ViewBag.Title</title>
+        <link href="~/vendors/iconfonts/mdi/css/materialdesignicons.min.css" rel="stylesheet" />
+        <link href="~/vendors/css/vendor.bundle.base.css" rel="stylesheet" />
+        <link href="~/vendors/css/vendor.bundle.addons.css" rel="stylesheet" />
+        <link href="~/vendors/iconfonts/font-awesome/css/font-awesome.css" rel="stylesheet" />
+        <link href="~/Content/MisEstilos.css" rel="stylesheet" />
+        <link href="~/Content/css/style.css?v=@rnd.Next()" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="contenedor_carga">
+            <div id="carga">
+            </div>
+        </div>
+        <div class="container-scroller">
+            <nav class="navbar default-layout col-lg-12 col-12 p-0 d-flex flex-row">
+                <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
+                    <a class="navbar-brand brand-logo" href="/Ticket/List">
+                        <img src="~/images/logoSinBack.png" alt="logo" id="logoStandar" style="height: 55px; width:75px">
+                    </a>
+                    <a class="navbar-brand brand-logo-mini" href="/Ticket/List">
+                        <img src="~/images/logoSinBack.png" alt="logoMovil" id="logoSmall" style="height: 54px; width:56px;background-repeat: no-repeat;background-position: 50%;border-radius: 50%;background-size: 100% auto;">
+                    </a>
+                </div>
+                <div class="navbar-menu-wrapper d-flex align-items-center">
+                    <ul class="navbar-nav navbar-nav-left header-links d-none d-md-flex">
+                        <li class="nav-item">
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav navbar-nav-right">
+                        <li class="nav-item dropdown d-none d-xl-inline-block">
+                            <a class="nav-link dropdown-toggle" id="UserDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
+                                <span id="nombreUsuario" class="profile-text">Bienvenido, @user.nombres</span>
+                                <img class="img-xs rounded-circle" src='@(user.urlFoto??"~/images/usuarioM.png")' alt="">
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="UserDropdown">
+                                <a class="dropdown-item mt-2" href="/Usuario/Index" id="perfilUsuario">
+                                    Perfil de usuario
+                                </a>
+                                <a class="dropdown-item cerrarSesion" href="/Usuario/Logout">
+                                    Cerrar sesión
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                    <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+                        <h4>MENÚ</h4>
+                    </button>
+                </div>
+            </nav>
+            <div class="container-fluid page-body-wrapper">
+                <nav class="sidebar sidebar-offcanvas" id="sidebar">
+                    <input type="hidden" id="perfilID" value="1">
+                    <ul class="nav" id="menu">
+                        <li class="nav-item nav-profile">
+                            <div class="nav-link">
+                                <div class="user-wrapper">
+                                    <div class="profile-image">
+                                        <img src="@user.urlFoto" alt="profile image">
+                                    </div>
+                                    <div class="text-wrapper">
+                                        <p class="profile-name">@user.nombres</p>
+                                        <div>
+                                            <small class="designation text-muted">@user.nomRol</small>
+                                            <span class="status-indicator online"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="btn btn-secondary btn-fw btn-block cerrarSesion" href="/Usuario/Logout">
+                                    Cerrar sesión
+                                </a>
+                            </div>
+                        </li>
+                        <li class="nav-item nav-category">
+                            <span class="nav-link text-success bottonStyleMenu" style="font-weight: bold;">MySoporte</span>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#ui-basic-1" data-toggle="collapse" aria-expanded="false" aria-controls="ui-basic">
+                                <i class="menu-icon fa fa-wrench text-warning"></i>
+                                <span class="menu-title">Mantenimientos</span>
+                                <i class="menu-arrow"></i>
+                            </a>
+                            <div class="collapse" id="ui-basic-1">
+                                <ul class="nav flex-column sub-menu" style="margin-left:-15px">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">
+                                            <i class="menu-icon fa fa-cubes text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Usuarios</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Usuario/Trabajador">
+                                            <i class="menu-icon fa fa-user-circle-o text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Trabajadores</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Home/Index">
+                                <i class="menu-icon fa fa-user-circle text-primary"></i>
+                                <span class="menu-title">Servicios</span>
+                            </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">
+                                <i class="menu-icon mdi mdi-file-document text-success"></i>
+                                <span class="menu-title">Promociones</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#ui-basic-13" data-toggle="collapse" aria-expanded="false" aria-controls="ui-basic">
+                                <i class="menu-icon fa fa-folder-open text-primary"></i>
+                                <span class="menu-title">Contratos</span>
+                                <i class="menu-arrow"></i>
+                            </a>
+                            <div class="collapse" id="ui-basic-13">
+                                <ul class="nav flex-column sub-menu" style="margin-left:-15px">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Contrato/Adenda">
+                                            <i class="menu-icon fa fa-clipboard text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Adendas</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#ui-basic-6" data-toggle="collapse" aria-expanded="false" aria-controls="ui-basic">
+                                <i class="menu-icon fa fa-bar-chart-o text-danger"></i>
+                                <span class="menu-title">Reportes</span>
+                                <i class="menu-arrow"></i>
+                            </a>
+                            <div class="collapse" id="ui-basic-6">
+                                <ul class="nav flex-column sub-menu" style="margin-left:-15px">
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Reporte/TicketsByEmpresa">
+                                            <i class="menu-icon fa fa-bank text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Tickets por empresa</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Reporte/TicketsByEstado">
+                                            <i class="menu-icon fa fa-signal text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Tickets por estado</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Reporte/AgentesAndGroups">
+                                            <i class="menu-icon fa fa-users text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Agentes y grupos</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Reporte/VentasByEmpresa">
+                                            <i class="menu-icon fa fa-handshake-o text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Ventas por empresa</span>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/Reporte/ClientsMyBusiness">
+                                            <i class="menu-icon fa fa-id-badge text-dark" style="margin-right: 13px;"></i>
+                                            <span class="menu-title">Clientes cargados</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Usuario/Index">
+                                <i class="menu-icon fa fa-vcard text-info"></i>
+                                <span class="menu-title">Perfil de usuario</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Configuracion/Index">
+                                <i class="menu-icon fa fa-gears text-primary"></i>
+                                <span class="menu-title">Configuraciones</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="main-panel">
+                    <div class="content-wrapper">
+                        @RenderBody()
+                    </div>
+                    <footer class="footer">
+                        <div class="container-fluid clearfix">
+                            <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">
+                                Copyright © 2019
+                                <a href="mailto:admin@miloficios.com">
+                                    <span>Mil Oficios SAC</span>
+                                </a>. All rights reserved.
+                            </span>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+        </div>
+        <!-- #region AVISO -->
+
+        <div class="modal fade" id="avisoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header" id="avisoModalHeader" style="color:white">
+                        <h5 class="modal-title" id="avisoModalTitle"></h5>
+                    </div>
+                    <div class="modal-body" style="background: white;">
+                        <p id="avisoModalParrafo1"></p>
+                        <p id="avisoModalParrafo2"></p>
+                        <p id="avisoModalParrafo3"></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="" data-dismiss="modal" id="btnClose"></button>
+                        <button type="button" class="btn btn-primary" id="btnConfirmar"><i class="fa fa-check"></i> Confirmar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- #endregion -->
+        <script src="/vendors/js/vendor.bundle.base.js"></script>
+        <script src="/vendors/js/vendor.bundle.addons.js"></script>
+        <script src="/Scripts/off-canvas.js"></script>
+        <script src="/Scripts/misc.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="/Scripts/config.js?v=2062035122"></script>
+        <script src="~/Scripts/Shared/Layout.js"></script>
+        <script src="~/Scripts/Usuario/Login.js?v=@DateTime.Now.Ticks"></script>
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

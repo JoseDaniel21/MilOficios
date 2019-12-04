@@ -1,0 +1,164 @@
+﻿@using MilOficios.Entidades
+@{
+    ViewBag.Title = "Index";
+    var user = Session["Usuario"] as Usuario;
+
+    if (user == null)
+    {
+        Response.Redirect("/Usuario/Login");
+    }
+    Random rnd = new Random();
+}
+<div class="container">
+    <div class="card">
+        <div class="card-body">
+
+            <h3 class="card-title" style="text-transform: uppercase;font-size: 1.30rem;">SERVICIOS CERCA DE TI</h3>
+            <div class="row">
+                <div class="input-group col-lg-6">
+                    <input type="text" class="form-control file-upload-info" id="requestOC" placeholder="Servicio">
+                    <span class="input-group-append">
+                        <button id="btnConsultaOC" class="file-upload-browse btn btn-info" type="button"><i class="fa fa-search"></i></button>
+                    </span>
+                </div>
+                <div class="col-lg-6" align="right">
+                    @*<a href="/OrdenCompra/Save" hidden class="btn btn-danger">Nueva OC</a>*@
+                    <button class="btn btn-primary" id="btnAgregarServicio">Agregar Servicio</button>
+                </div>
+                <span>@user.codUsuario</span>
+            </div>
+            <br />         
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardMudanzas">
+                <div class="card-body ">                    
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">MUDANZAS</p>
+                        <div class="float-none">
+                            <center><img src="~/Content/images/empresas-de-mudanzas-y-transportes-vector.png" width="250" /></center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardTecnicos">
+                <div class="card-body ">
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">TECNICOS</p>
+                        <div class="float-none">
+                            <center>
+                                <img src="~/Content/images/tecnico.jpg" width="250"/>
+                            </center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardJardinero">
+                <div class="card-body ">
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">JARDINERO</p>
+                        <div class="float-none">
+                            <center>
+                                <img src="~/Content/images/jardineroPRO.jpg" width="250"/>
+                            </center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardArquitecto">
+                <div class="card-body ">
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">ARQUITECTO</p>
+                        <div class="float-none">
+                            <center>
+                                <img src="~/Content/images/arquitecto.jpg" width="250" height="250"/>
+                            </center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardSeguridad">
+                <div class="card-body ">
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">SEGURIDAD</p>
+                        <div class="float-none">
+                            <center>
+                                <img src="~/Content/images/seguridad.jpg" width="250" height="250"/>
+                            </center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardGas">
+                <div class="card-body ">
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">GAS</p>
+                        <div class="float-none">
+                            <center>
+                                <img src="~/Content/images/gas.png" width="250" height="250"/>
+                            </center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardTCarpintero">
+                <div class="card-body ">
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">CARPINTERO</p>
+                        <div class="float-none">
+                            <center>
+                                <img src="~/Content/images/carpintero.jpg" width="250" height="250"/>
+                            </center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 grid-margin stretch-card" id="colTodos">
+            <div class="card card-statistics estadosTicket" id="cardTodos">
+                <div class="card-body ">
+                    <div class="clearfix">
+                        <p class="mb-0 text-center" id="textTodos">MUDANZAS</p>
+                        <div class="float-none">
+                            <center><img src="~/Content/images/empresas-de-mudanzas-y-transportes-vector.png" width="250" height="250" /></center>
+                            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@{
+    Html.RenderPartial("_ModalsServicio");
+}
+
+@section scripts{
+
+    <script src="~/Scripts/Home/Index.js?v=@rnd.Next()"></script>
+}

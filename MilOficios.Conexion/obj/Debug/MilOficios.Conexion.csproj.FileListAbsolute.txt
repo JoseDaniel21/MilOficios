@@ -1,0 +1,12 @@
+F:\DCG TEC\MilOficios\MilOficios.Conexion\bin\Debug\MilOficios.Conexion.dll
+F:\DCG TEC\MilOficios\MilOficios.Conexion\bin\Debug\MilOficios.Conexion.pdb
+F:\DCG TEC\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.csprojAssemblyReference.cache
+F:\DCG TEC\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.csproj.CoreCompileInputs.cache
+F:\DCG TEC\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.dll
+F:\DCG TEC\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Conexion\bin\Debug\MilOficios.Conexion.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Conexion\bin\Debug\MilOficios.Conexion.pdb
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.csprojAssemblyReference.cache
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.dll
+C:\Users\JoseDaniel\Desktop\FINAL FINAL CSMRE\MilOficios\MilOficios.Conexion\obj\Debug\MilOficios.Conexion.pdb

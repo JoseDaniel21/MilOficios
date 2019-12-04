@@ -1,0 +1,183 @@
+﻿@{
+    Layout = null;
+    Random rnd = new Random();
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Mil Oficios</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <link href="~/Content/style-responsive.min.css" rel="stylesheet" />
+    <link href="~/Content/style.min.css" rel="stylesheet" />
+    <link href="~/Content/css/style.css?v=@rnd.Next()" rel="stylesheet" />
+    <link href="~/vendors/iconfonts/mdi/css/materialdesignicons.min.css" rel="stylesheet" />
+    <link href="~/vendors/css/vendor.bundle.base.css" rel="stylesheet" />
+    <link href="~/vendors/css/vendor.bundle.addons.css" rel="stylesheet" />
+    <link href="~/Content/MisEstilos.css" rel="stylesheet" />
+    <style>
+        .f-w-n {
+            font-weight: normal;
+        }
+    </style>
+</head>
+<body class="pace-top bg-white">
+    <div id="contenedor_carga">
+        <div id="carga">
+        </div>
+    </div>
+    <div id="page-container">
+        <div class="register register-with-news-feed">
+            <div class="news-feed">
+                <div class="news-image">
+                    <img src="~/images/bannerMO.jpg" alt="" id="banner" />
+                </div>
+                <div class="news-caption" align="center" id="options">
+                </div>
+            </div>
+            <div class="right-content">
+                <div class="register-content">
+                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist" style="display:none">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="pills-iniciar-tab" data-toggle="pill" href="#pills-iniciar" role="tab" aria-controls="pills-iniciar" aria-selected="true">Iniciar sesión</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-registrar-tab" data-toggle="pill" href="#pills-registrar" role="tab" aria-controls="pills-registrar" aria-selected="false">Registrarme</a>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="pills-tabContent">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <button class="btn btn-dark btn-block" id="btnIniciarSesion">Iniciar sesión</button>
+                            </div>
+                            <div class="col-md-6">
+                                <button class="btn btn-outline-dark btn-block" id="btnRegistrarme">Registrarme</button>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade show active" id="pills-iniciar" role="tabpanel" aria-labelledby="pills-iniciar-tab">
+                            <center><img src="~/images/logoSinBack.png" alt="" width="170" style="padding-top:10px" /></center>
+                            <h1 class="register-header" style="text-align: center; padding:15px">
+                                Iniciar sesión
+                            </h1>
+                            <br />
+                            <form id="formLogin">
+                                <label class="control-label f-w-n ">Usuario</label>
+                                <div class="row m-b-15">
+                                    <div class="col-md-12">
+                                        <input type="text" class="form-control" id="usuarioLogin" name="usuario" autocomplete="off" autofocus required />
+                                    </div>
+                                </div>
+                                <label class="control-label f-w-n ">Contraseña</label>
+                                <div class="row m-b-15">
+                                    <div class="col-md-12">
+                                        <input type="password" class="form-control" id="contraseniaLogin" name="claveDesencriptada" autocomplete="off" required />
+                                    </div>
+                                </div>
+                                <div class="register-buttons">
+
+                                    <button type="button" class="btn btn-primary btn-rounded btn-fw btn-block btn-lg" id="btnIngresar">Ingresar</button>
+                                    <center><p style="padding-top:15px">Ó</p></center>
+                                    <button class="btn social-btn btn-social-outline-facebook btn-block btn-sm" type="button" id="btnFacebook">
+                                        <i class="mdi mdi-facebook"></i> Ingresar con Facebook
+                                    </button>
+                                    <button class="btn social-btn btn-social-outline-google btn-block btn-sm">
+                                        <i class="mdi mdi-google-plus"></i> Ingresar con Google
+                                    </button>
+                                </div>
+                                <div class="m-t-20 m-b-40 p-b-40 text-inverse" align="center">
+                                    <button type="button" class="btn btn-link" data-toggle="modal" data-target="#restartClaveModal" style="color:black">¿Ha olvidado su clave?</button>
+                                </div>
+                                <hr />
+                                <p class="text-center">
+                                    Mil Oficios. All Right Reserved 2019
+                                </p>
+                            </form>
+                        </div>
+                        <div class="tab-pane fade" id="pills-registrar" role="tabpanel" aria-labelledby="pills-registrar-tab">
+                            <h1 class="register-header" style="text-align: center;">
+                                Registrarme
+                            </h1>
+                            <br />
+                            <form id="formRegister">
+
+                                <div class="row row-space-10">
+                                    <div class="col-md-12 m-b-15">
+                                        <label class="control-label f-w-n">Correo</label>
+                                        <input type="email" class="form-control" id="correo" name="correo" autocomplete="off" required />
+                                        <div id="msgCorreo" style="font-size: 11px;text-align: center;color:red; display:none">
+                                            Este correo ya se encuentra registrado.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-space-10">
+                                    <div class="col-md-12 m-b-15">
+                                        <label class="control-label f-w-n">Nombres</label>
+                                        <input type="text" class="form-control" id="nombres" name="nombres" autocomplete="off" required />
+                                    </div>
+                                    @*<div class="col-md-6 m-b-15">
+                                            <label class="control-label f-w-n">Apellidos</label>
+                                            <input type="text" class="form-control" id="apellidosIndex" name="apellidos" autocomplete="off" required />
+                                        </div>*@
+                                </div>
+                                <div class="row row-space-10">
+                                    <div class="col-md-12 m-b-15">
+                                        <label class="control-label f-w-n">Contraseña</label>
+                                        <input type="password" class="form-control" id="constrasenia" name="constrasenia" required />
+                                    </div>
+                                    @*<div class="col-md-6 m-b-15">
+                                            <label class="control-label f-w-n">Repita su Contraseña</label>
+                                            <input type="password" class="form-control" id="repitClave" required />
+                                            <div id="msgRepeatClave" style="font-size: 11px;text-align: center;color:red; display:none">
+                                                Las claves no coinciden.
+                                            </div>
+                                        </div>*@
+                                </div>
+                                <div class="row row-space-10">
+                                    <div class="col-md-12 m-b-15">
+                                        <label class="control-label f-w-n">Celular</label>
+                                        <input type="text" class="form-control" id="celular" name="celular" maxlength="9" pattern="[9]([0-9]{8})" title="Digite correctamente el celular por favor: 9 dígitos" autocomplete="off" required />
+                                    </div>
+                                </div>
+                                <div class="row row-space-10">
+                                    <div class="col-md-12 m-b-15">
+
+                                       
+
+
+                                        @*//Combo que intente hacer usando el servicio en jquery*@
+                                        <label class="control-label f-w-n">Rol</label>
+                                        <select id="idRol" class="note-control-selection form-control">
+                                            <option>[--Seleccione rol--]</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="register-buttons">
+                                    <button type="button" class="btn btn-success btn-rounded btn-fw btn-block btn-lg" id="btnRegistrar">Registrar</button>
+                                </div>
+                                <hr />
+                                <p class="text-center">
+                                    &copy; <span class="empresa"></span>© Mil Oficios SAC. All rights reserved 2019. <span class="añoActual"></span>
+                                </p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    @{
+        Html.RenderPartial("_Modals");
+    }
+    <script src="~/vendors/js/vendor.bundle.base.js"></script>
+    <script src="~/vendors/js/vendor.bundle.addons.js"></script>
+    <script src="~/Scripts/off-canvas.js"></script>
+    <script src="~/Scripts/misc.js"></script>
+    <script src="~/Scripts/Shared/Layout.js?v=@rnd.Next()"></script>
+    <script src="~/Scripts/Usuario/Login.js?v=@rnd.Next()"></script>
+</body>
+</html>
+
