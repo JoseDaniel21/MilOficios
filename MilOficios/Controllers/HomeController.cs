@@ -191,6 +191,29 @@ namespace MilOficios.Controllers
                 return Json(new Result { codResultado = 0, desResultado = ex.Message }, JsonRequestBehavior.AllowGet);
             }
         }
+
+        [HttpPost]
+        public JsonResult Solicitar(Solicitud model)
+        {
+            //if (model.Nombres == null && model.telefono == null)
+            //    return Json(new Result { codResultado = 0, desResultado = (model.Nombres == null ? "Ingrese nombres" : model.telefono == null ? "Ingrese teléfono" : "Ingrese contraseña") }, JsonRequestBehavior.AllowGet);
+            //else
+         
+            try
+            {
+                HttpClient clienteHttp = new HttpClient();
+                clienteHttp.BaseAddress = new Uri("http://miloficios.somee.com/");
+                var url = "API/GenerarSolicitudServicio?codServicio=" + model.codServicio + "&costo=" + model.costo + "&cotizacion=" + model.cotizacion + "&codUsuario=" + model.codUsuario;
+                var request = clienteHttp.GetAsync(url).Result;
+                var resultString = request.Content.ReadAsStringAsync().Result;
+                var ls = JsonConvert.DeserializeObject<Result>(resultString);
+                return Json(ls, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json(new Result { codResultado = 0, desResultado = ex.Message }, JsonRequestBehavior.AllowGet);
+            }
+        }
         #endregion
     }
 }

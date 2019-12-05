@@ -1,4 +1,8 @@
-﻿
+﻿@using MilOficios.Entidades
+@{
+
+    var user = Session["Usuario"] as Usuario;
+}
 <div class="modal fade" id="detalle_Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document" id="modalTamanio" style="max-width:700px">
         <div class="modal-content">
@@ -12,17 +16,26 @@
                 <div class="show" id="divDetalle1">
                     <div class="container">
                         <div class="row" style="margin-bottom:8px;padding-right:12.5px">
-                            <input class="hidden" id="id" @*value="@user.codUsuario"*@ />
+                            <input class="hidden" id="idUsuario" value="@user.codUsuario" />
+                            <input class="hidden" id="id" />
                             <div class="col-md-6" style="padding-right:0px">
                                 <div class="form-group">
-                                    <label>Describe el servicio que prestarás!</label>
-                                    <img width="200" id="imagen" height="200"/>
+                                    <input id="Categoria" class="form-control form-control-lg" />
+                                    <img width="200" id="imagen" height="200" />
                                 </div>
                             </div>
                             <div class="col-md-6" style="padding-right:0px">
                                 <div class="form-group">
-                                    <label>Establece la fecha en la que finalizará tu oferta</label>
-                                    <input style="display:block" type="date" id="txtFecha" />
+                                    <label>Descripcion</label>
+                                    <input class="form-control form-control-lg" id="txtDescripcion" disabled />
+                                </div>
+                                <div class="form-group">
+                                    <label>Ubicacion</label>
+                                    <input class="form-control form-control-lg" id="txtUbi" disabled />
+                                </div>
+                                <div class="form-group">
+                                    <label>Calificación</label>
+                                    <input class="form-control form-control-lg" id="txtCali" disabled />
                                 </div>
                             </div>
 
@@ -30,30 +43,11 @@
                         <div class="row" style="margin-bottom:8px;padding-right:12.5px">
                             <div class="col-md-6" style="padding-right:0px">
                                 <div class="form-group">
-                                    <label>Elige la Categoria a la que te perteneces</label>
-                                    <select class="form-control" id="categoria" required style="height: 34px;">
-                                        <option value="">--Seleccione--</option>
-                                        <option value="1">Mudanzas</option>
-                                        <option value="2">Tecnicos</option>
-                                        <option value="3">Jardinero</option>
-                                        <option value="4">Arquitecto</option>
-                                        <option value="5">Seguridad</option>
-                                        <option value="6">Gas</option>
-                                        <option value="7">Carpintero</option>
-                                    </select>
+                                    <input id="Nombre" class="form-control form-control-lg" />
                                 </div>
                             </div>
                             <div class="col-md-6" style="padding-right:0px">
                                 <div class="form-group">
-                                    <label>Elige la ubicación disponible</label>
-                                    <select class="form-control" id="ubicacion" required style="height: 34px;">
-                                        <option value="">--Seleccione--</option>
-                                        <option value="1">Lima</option>
-                                        <option value="2">Trujillo</option>
-                                        <option value="3">Huaraz</option>
-                                        <option value="4">Huarmey</option>
-                                    </select>
-
                                 </div>
                             </div>
                         </div>
@@ -62,7 +56,7 @@
                 <div class="modal-footer">
 
                     @*<button type="button" class="btn btn-secondary" id="btnAtras">Cerrar</button>*@
-                    <center><button type="button" class="btn btn-outline-success" id="btnGuardar">Guardar<i class="fa fa-save"></i></button></center>
+                    <center><button type="button" class="btn btn-outline-success" id="btnGuardar">Solicitar<i class="fa fa-save"></i></button></center>
 
                 </div>
             </div>

@@ -5,16 +5,16 @@ ListPage();
 function ListPage() {
     $.ajax({
         type: "GET",
-        url: "/Home/JListMudanza",
-        dataType : 'json',
+        url: "/Home/JListJardinero",
+        dataType: 'json',
         beforeSend: function () {
             $("#contenedor_carga").css("visibility", "visible");
         }
     }).then(function (listado) {
         console.log(listado);
         $("#contenedor_carga").css("visibility", "hidden");
-        TableOC(listado); 
-});
+        TableOC(listado);
+    });
 }
 //Table
 function TableOC(listado) {
@@ -36,20 +36,14 @@ function TableOC(listado) {
 function VerDetalle(listaServicio) {
     $("#detalle_Modal").modal("show");
     console.log(listaServicio.urlFoto);
-    $("#imagen").attr("src",listaServicio.urlFoto);
-    $("#txtDescripcion").val(listaServicio.descripcionServicio);
-    $("#txtUbi").val(listaServicio.ubicacion);
-    $("#txtCali").val(listaServicio.calificacion);
-    $("#Nombre").val(listaServicio.nombre);
-    $("#Categoria").val(listaServicio.descripcion);
-    $("#id").val(listaServicio.codServicio)
-}
+    $("#imagen").attr("src", listaServicio.urlFoto);
 
+}
 $("#btnGuardar").click(function () {
     var cod = $("#id").val();
     var cos = 122.51;
     var cot = 365.36;
-    var codUsu = $("#idUsuario").val();  
+    var codUsu = $("#idUsuario").val();
 
     var obj = Object();
     obj.codServicio = cod;

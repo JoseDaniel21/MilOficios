@@ -220,7 +220,13 @@
     <Content Include="Scripts\config.js" />
     <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\Home\Index.js" />
+    <Content Include="Scripts\Home\ListArquitectos.js" />
+    <Content Include="Scripts\Home\ListCarpinteros.js" />
+    <Content Include="Scripts\Home\ListGas.js" />
+    <Content Include="Scripts\Home\ListJadineros.js" />
+    <Content Include="Scripts\Home\ListSeguridad.js" />
     <Content Include="Scripts\Home\ListServicios.js" />
+    <Content Include="Scripts\Home\ListTenicos.js" />
     <Content Include="Scripts\jquery.json.js" />
     <Content Include="Scripts\jspdf.debug.js" />
     <Content Include="Scripts\misc.js" />

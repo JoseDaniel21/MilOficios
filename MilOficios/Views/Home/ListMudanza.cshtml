@@ -1,7 +1,13 @@
-﻿
+﻿@using MilOficios.Entidades
 @{
     ViewBag.Title = "MUDANZAS";
     Random rnd = new Random();
+    var user = Session["Usuario"] as Usuario;
+
+    if (user == null)
+    {
+        Response.Redirect("/Usuario/Login");
+    }
 }
 
 <div class="container">

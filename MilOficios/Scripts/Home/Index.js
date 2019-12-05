@@ -70,16 +70,22 @@ $("#cardMudanzas").click(function () {
     location.href = "/Home/ListMudanza";    
 })
 
-$("#cardMudanzas").click(function () {
-    location.href("Home/ListServicio");
+$("#cardTecnicos").click(function () {
+    location.href = "/Home/ListTecnico";
 })
-$("#cardMudanzas").click(function () {
-    location.href("Home/ListServicio");
+$("#cardJardinero").click(function () {
+    location.href = "/Home/ListJardinero";
 })
-$("#cardMudanzas").click(function () {
-    location.href("Home/ListServicio");
+$("#cardArquitecto").click(function () {
+    location.href = "/Home/ListArquitecto";
 })
-$("#cardMudanzas").click(function () {
-    location.href("Home/ListServicio");
+$("#cardSeguridad").click(function () {
+    location.href = "/Home/ListSeguridad";
+})
+$("#cardGas").click(function () {
+    location.href = "/Home/ListGas";
+})
+$("#cardTCarpintero").click(function () {
+    location.href = "/Home/ListCarpintero";
 })
 //#endregion
